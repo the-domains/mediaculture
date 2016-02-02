@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MediaCulture]]></title>
+        <description><![CDATA[MediaCulture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 06:36:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>MediaCulture is a product of Marsh Media, a professional media organization committed to communications research. The company boasts an extensive background in content</p>]]></description>
+            <link>undefined9e87ce43-a728-460d-8f17-4ad3818d5e00/index.html</link>
+            <guid isPermaLink="false">9e87ce43-a728-460d-8f17-4ad3818d5e00</guid>
+            <pubDate>Tue, 02 Feb 2016 06:35:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
